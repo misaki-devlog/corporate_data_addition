@@ -1,4 +1,4 @@
-# corporate_data_addition
+[corporate_data_addition.py](https://github.com/user-attachments/files/27786171/corporate_data_addition.py)# corporate_data_addition
 
 ## 概要（OverView）
 企業の業績データ（ROE,営業CF,自己資本比率）を管理・表示するプログラムです。
@@ -7,8 +7,10 @@
 ## 使い方（Usage）
 1. Pythonをインストールする
 2. ターミナルで以下を実行する
+   corporate_data_addition(spilit関数ver.).py
+   corporate_data_addition.py
 
-3. 企業名を入力する
+4. 企業名を入力する
    ・既存の企業の場合(パナソニックホールディングス、富士通、NEC)：現在のデータが表示されます
    ・新規の企業の場合：ガイドに従って財務数値を入力するとデータが追加されます
 
