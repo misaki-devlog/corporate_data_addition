@@ -1,4 +1,4 @@
-# corporate_data_eddition
+# corporate_data_addition
 
 ## 概要（OverView）
 企業の業績データ（ROE,営業CF,自己資本比率）を管理・表示するプログラムです。
