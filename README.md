@@ -10,7 +10,7 @@
    corporate_data_addition(spilit関数ver.).py
    corporate_data_addition.py
 
-4. 企業名を入力する
+3. 企業名を入力する
    ・既存の企業の場合(パナソニックホールディングス、富士通、NEC)：現在のデータが表示されます
    ・新規の企業の場合：ガイドに従って財務数値を入力するとデータが追加されます
 
